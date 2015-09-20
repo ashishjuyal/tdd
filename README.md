@@ -15,3 +15,5 @@ Follow these steps to get started
 3. Use maven to create and install project :
 
 		$ mvn install eclipse:eclipse
+
+You can work with Continuous Test feature in this project, a build.sbt is included to use the continuous test feature from SBT		
